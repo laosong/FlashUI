@@ -43,7 +43,7 @@ END_MESSAGE_MAP()
 
 // CFlashUIDlg dialog
 
-#define IDS_UI_FILENAME _T("")
+#define IDS_UI_FILENAME _T("C:\\Program Files (x86)\\Easytech\\EasyUI.swf")
 
 
 CFlashUIDlg::CFlashUIDlg(CWnd* pParent /*=NULL*/)
